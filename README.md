@@ -1,4 +1,4 @@
-InstaBrand
+<h2>InstaBrand</h2>
 
 Scenario:
 
@@ -16,18 +16,17 @@ So what do we need for our Brand Affiliate product…InstaBrand?
 
 How to use InstaBrand (add on button you can install for it to appear on IG pics)
 
-1. TRAIN tons of Nike pictures so that you can visually recognize that it is a Nike product.
+1. TRAIN tons of GAP pictures so that you can visually recognize that it is a GAP product.
 
 2. SEND all these pics to Alchemy API 
 
-3. PROCESS into a particular class (like Nike shoes). 
+3. PROCESS into a particular class (like GAP high-rise jeans). 
 
 4. TAG the IG pic with the class that we trained.
 
 5. LINK the IG pic to the product URL and keep track if the product was bought or not.
 
-6. Once purchase done... 
-SHARE a certain % of profit to picture uploader and us! 
+6. Once purchase done... SHARE a certain % of profit to picture uploader and us! 
 
 
 
